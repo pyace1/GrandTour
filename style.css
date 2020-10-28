@@ -57,4 +57,13 @@ slider
     bottom: 33%;
     text-align: left;
 }
+/***************
+intro
+***************/
+.intro h2 {
+    padding: 20px 0;
+}
+.intro h2 span {
+    background: var(--blue);
+}
 
